@@ -34,6 +34,7 @@ This work demonstrates practical expertise in machine learning, R programming, r
      - svm_radial_cv.png
      - confusion_matrices
      - decision_boundary_2d.png
+     - variable_importance.png
 - `slides/`
     - breast_cancer_svm_presentation.pdf
 - `README.md`
