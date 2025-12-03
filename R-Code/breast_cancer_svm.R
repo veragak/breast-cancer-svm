@@ -20,9 +20,6 @@ library(kableExtra) # Pretty tables
 # Data Preparation
 #####################
 
-# Set working directory
-setwd("/Users/veragakanagrova/Desktop/Erasmus Rotterdam University/Classes/Data")
-
 # Load data
 df <- read.csv("breast_cancer.csv")
 
