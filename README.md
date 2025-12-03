@@ -169,7 +169,7 @@ shiny::runApp("app")
 git clone https://github.com/YOUR_USERNAME/breast-cancer-svm.git
 cd breast-cancer-svm
 ```
-### **2. Run the analysis script
+### **2. Run the analysis script**
 source("R-Code/breast_cancer_svm.R")
 
 This will:
@@ -178,7 +178,7 @@ This will:
 - train the reduced SVM model
 - save the model into `app/svm_shiny_model.rds`
 
-### **3. Launch the Shiny App
+### **3. Launch the Shiny App**
 ```r
 shiny::runApp("app")
 ```
