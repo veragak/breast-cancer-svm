@@ -27,7 +27,7 @@ This work demonstrates practical expertise in machine learning, R programming, r
     - breast_cancer_svm.R # Full analysis pipeline
 - `app/`
     - app.R # Shiny web application
-    - svm_shiny_model.rds # Tuned SVM model (auto-generated)
+    - README.md # explanation (auto-generated)
 -  `figs/` # Automatically saved figures
      - histograms.pdf
      - svm_linear_cv.png
